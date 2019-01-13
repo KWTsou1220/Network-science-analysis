@@ -1,4 +1,6 @@
-./Dataset/*
-./Models/*
+Dataset/*
+Dataset
+Models/*
+Models
 .ipynb_checkpoints
 __pycache__
